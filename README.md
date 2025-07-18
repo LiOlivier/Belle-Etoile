@@ -24,7 +24,7 @@ L'objectif principale de ce dépôt sera donc de centraliser le code du site, co
 #### Vous pouvez cloner ce dépôt et lancer le projet localement :
 
 ```
-  git clone https://github.com/votre-utilisateur/belle-etoile-site
+  git clone https://github.com/LiOlivier/Belle-Etoile
   cd belle-etoile-site
 ```
 
